@@ -5,7 +5,7 @@
 ## X-Revision: @project-abbreviated-hash@
 ## X-Date: @file-date-iso@
 
-## X-Credits: Zhinjio, FGWarmonger, Kagaro, Speeddymon, Xinhuan, Aesir, BWMerlin, everyone who translated stuff and more!
+## X-Credits: Ackis, Zhinjio, FGWarmonger, Kagaro, Speeddymon, Xinhuan, Aesir, BWMerlin, everyone who translated stuff and more!
 ## X-Category: Tradeskill
 ## X-Localizations: enUS, frFR, zhCN, zhTW, deDE, itIT, koKR, esES, esMX, ruRU, ptBR
 ## X-Website: http://www.curse.com/addons/wow/arl
